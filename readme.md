@@ -10,10 +10,10 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Harrison Itotia</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A Moringa alumni cohort sd64-68!</h3>
 
 <br/>
 
@@ -47,30 +47,23 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an proficient in **Javascript, React for front-end, Ruby on rails for backend**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+🌱 I’m currently learning web development under Elewa programme from Italanta.
 
-📄 Know about my experiences [through my CV](about/resume.md)
-
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
-
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **I love to play and watch football**
 
 ### My work
 
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
-<!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/ItotiaHarrison](https://github.com/ItotiaHarrison)
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **harrisonitotia@gmail.com**
 
 <br />
 
@@ -86,22 +79,11 @@
 
 <p align="right"><b>2023</b></p>
 
-<p>
-  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
-</p>
-<p>
-  <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
-</p>
-<br/>
+
 
 <!-- Link in this table your actual contributions -->
 ### My contributions
 
-| Date     	| Issue 	| Status 	| Link 	|
-|----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
 
 
 ### The technologies I used
@@ -128,12 +110,6 @@
 <!-- Link in this table your actual contributions -->
 ### My contributions
 
-| Date     	| Issue 	| Status 	| Link 	|
-|----------	|-------	|--------	|------	|
-| 26/09/22 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#79](https://github.com/italanta/kujali/issues/79) |
-| 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
-| 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) |
 
 
 ### The technologies I used
