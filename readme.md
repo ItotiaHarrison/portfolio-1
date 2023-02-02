@@ -13,22 +13,22 @@
 <h1 align="center">Hi 👋, I'm Harrison Itotia</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A Moringa alumni cohort sd64-68!</h3>
+<h3 align="center">A Full stack web developer</h3>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ItotiaHarrison"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="ItotiaHarrison" /></a> </p>
+<p align="left"> <a href="https://github.com/ItotiaHarrison"><img src="https://github-profile-trophy.vercel.app/?username=ItotiaHarrison" alt="ItotiaHarrison" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/harrisonitotia" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harrison Itotia's LinkedIn" /></a> 
+  <a href="https://linkedin.com/in/harrison-itotia" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harrison Itotia's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/itotiacodes" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Harrison Itotia's Twitter" /></a> 
+  <a href="https://twitter.com/ItotiaCodes?t=cz3SvVh_dt8GDL8qqXmOYQ&s=09" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Harrison Itotia's Twitter" /></a> 
   <span>&nbsp;</span>
   <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/Harrison Itotia" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Harrison Itotia's Stack Overflow" /></a> 
+  <a href="https://stackoverflow.com/users/19505764/harrison-itotia" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Harrison Itotia's Stack Overflow" /></a> 
 
   <!-- Other badges -->
   <!-- 
@@ -47,9 +47,9 @@
 
 ### Get to know me
 
-💬 I'm an proficient in **Javascript, React for front-end, Ruby on rails for backend**
+💬 I'm proficient in **Javascript, React for front-end, Ruby on rails for backend**
 
-🌱 I’m currently learning web development under Elewa programme from Italanta.
+🌱 I’m currently interning for web development under Elewa programme from Italanta.
 
 ⚡ Fun fact? **I love to play and watch football**
 
@@ -59,7 +59,7 @@
 <!-- TODO: Update at the end of every day with your  -->
 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/ItotiaHarrison](https://github.com/ItotiaHarrison)
+👨‍💻 Review my projects at [https://github.com/ItotiaHarrison?tab=repositories](https://github.com/ItotiaHarrison?tab=repositories)
 
 ### Interested ?
 
@@ -123,7 +123,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItotiaHarrison&show_icons=true&locale=en" alt="jrosseel" /></p>
 
 <!-- END -->
 
